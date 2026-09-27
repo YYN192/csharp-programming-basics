@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Rider / Visual Studio user files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf/
+.vs/
+*.user
+
+# macOS
+.DS_Store

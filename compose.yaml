@@ -1,0 +1,7 @@
+﻿services:
+  c-sharp school introductionc-sharpschoolintroduction:
+    image: c-sharp school introductionc-sharpschoolintroduction
+    build:
+      context: .
+      dockerfile: C-sharp school introduction /Dockerfile
+
