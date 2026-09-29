@@ -23,6 +23,16 @@ public static class Lessons
             new("* Square of stars", Lesson01_FirstSteps.SquareOfStars.Run),
             new("Lab: Summator (sum of two numbers)", Lesson01_FirstSteps.NumberSummator.Run),
         }),
+        new("Chapter 1.2: First Steps in Coding - Exercises", new Exercise[]
+        {
+            new("Making projects", Lesson01_2_FirstStepsInCodingExercises.MakingProjects.Run),
+            new("Pet shop", Lesson01_2_FirstStepsInCodingExercises.PetShop.Run),
+            new("Landscaping yards", Lesson01_2_FirstStepsInCodingExercises.LandscapingYards.Run),
+            new("USD to BGN converter", Lesson01_2_FirstStepsInCodingExercises.UsdToBgn.Run),
+            new("Radians to degrees converter", Lesson01_2_FirstStepsInCodingExercises.RadiansToDegrees.Run),
+            new("Deposit calculator", Lesson01_2_FirstStepsInCodingExercises.DepositCalculator.Run),
+            new("Mandatory literature", Lesson01_2_FirstStepsInCodingExercises.MandatoryLiterature.Run),
+        }),
         new("Chapter 2.1: Simple Calculations", new Exercise[]
         {
             new("Square area", Lesson02_1_SimpleCalculations.SquareArea.Run),
